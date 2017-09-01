@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+import CataloguePage from './pages/CataloguePage/CataloguePage';
 
-ReactDOM.render(<App />, document.getElementById('root'));
+ReactDOM.render(<CataloguePage />, document.getElementById('root'));
